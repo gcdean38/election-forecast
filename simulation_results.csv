@@ -1,9 +1,9 @@
 state,dem_win,rep_win
-Arizona,73271,26729
-Florida,0,100000
-Georgia,0,100000
-Michigan,87772,12228
-Nevada,2138,97862
-North_Carolina,49911,50089
-Pennsylvania,83787,16213
-Wisconsin,100000,0
+Arizona,0.73252,0.26748
+Florida,0.0,1.0
+Georgia,0.0,1.0
+Michigan,0.87602,0.12398
+Nevada,0.02138,0.97862
+North Carolina,0.50016,0.49984
+Pennsylvania,0.8395,0.1605
+Wisconsin,1.0,0.0
